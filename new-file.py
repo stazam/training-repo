@@ -2,4 +2,7 @@
 
 print("Something cool")
 
+
+print("something else")
+
 print("something else")
