@@ -1,8 +1,8 @@
 print("Something cool")
 
 
-print("Something cool")
+print("What is this")
 
 print("something else")
 
-print("What is this")
+print("Even more")
